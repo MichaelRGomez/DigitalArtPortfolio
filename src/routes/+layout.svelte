@@ -26,10 +26,10 @@
     text-white 
     px-4 py-2
     ">
-        <a class="hover:text-black">Home</a>
-        <a class="hover:text-black">Full Arhive</a>
-        <a class="hover:text-black">Artists I like</a>
-        <a class="hover:text-black">About me</a>
+        <a class="hover:text-black" href="/">Home</a>
+        <a class="hover:text-black" href="/FullArchive">Full Archive</a>
+        <a class="hover:text-black" href="/Artists">Artists I like</a>
+        <a class="hover:text-black" href="/About">About me</a>
     </nav>
 </div>
 
